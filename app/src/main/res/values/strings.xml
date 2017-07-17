@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="title_activity_translucent_demo">TranslucentDemoActivity</string>
+    <string name="title_activity_recycle_view_demo">RecycleViewDemoActivity</string>
+    <string name="title_activity_multi_recycler_view">MultiRecyclerViewActivity</string>
+    <string name="title_activity_retrofit">RetrofitActivity</string>
+    <string name="title_activity_swipe">SwipeActivity</string>
+    <string name="title_activity_webview">WebviewActivity</string>
+    <string name="title_activity_iconfont">IconfontActivity</string>
+    <string name="iconfont_add">&#xe6df;</string>
+    <string name="iconfont_close">&#xe6e9;</string>
+    <string name="iconfont_like_fill">&#xe707;</string>
+    <string name="iconfont_share_fill">&#xe729;</string>
+    <string name="iconfont_browse_fill">&#xe6e4;</string>
+    <string name="title_activity_my_gesture_detector">MyGestureDetectorActivity</string>
+    <string name="title_activity_my_matisse">MyMatisseActivity</string>
+
+
+
+    <string name="error_gif">长宽不小于 %1$dpx，且大小不超过 %2$sM。</string>
+
+
+</resources>

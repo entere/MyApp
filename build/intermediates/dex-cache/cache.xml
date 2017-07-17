@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/entere/.android/build-cache/c38d9bf3be8d0e451eeb0d1deb75e55e7ac5eb82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="524dbb5c53295c006c7aa1a209aae0407d6ebc53">
+        <dex dex="/Users/entere/AndroidStudioProjects/MyApp/app/build/intermediates/pre-dexed/debug/classes_533316b7f02ecca5077833ce29a6d143d388ef21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/entere/.android/build-cache/5d52d629ff310966c48ba41ad0ad25f08e6a8cf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="634ccf52c8b58a9eafd4a574b38d165e8648a574">
+        <dex dex="/Users/entere/AndroidStudioProjects/MyApp/app/build/intermediates/pre-dexed/debug/classes_5d11c7110f7ac281b0c83c4ebb4b3e74ea7f292e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/entere/.android/build-cache/eebb61c8b92240cd6f1de6e2f5915072f871f429/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57e0ef2a88702e623130d33d2590fb7b78521c83">
+        <dex dex="/Users/entere/AndroidStudioProjects/MyApp/app/build/intermediates/pre-dexed/debug/classes_9fb0969263d1144d36d23c848ee25ac237fd6fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/entere/.android/build-cache/572dddaca5efdf74aeeda4c3199169f0e5eca740/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="808deed0b600a65b805b642c2234feb6992dec88">
+        <dex dex="/Users/entere/AndroidStudioProjects/MyApp/app/build/intermediates/pre-dexed/debug/classes_3a22a1c7ac6f4dcad9dbf5de67872327a1793ce2.jar" />
+    </item>
+
+</items>
